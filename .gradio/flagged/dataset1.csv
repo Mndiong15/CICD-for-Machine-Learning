@@ -1,0 +1,3 @@
+Age,Sex,Blood Pressure,Cholesterol,Na_to_K,output,timestamp
+15,,,,6.2,"{""label"": null, ""confidences"": null}",2025-09-23 18:39:46.551852
+22,F,NORMAL,NORMAL,6.2,"{""label"": ""Predicted Drug: drugX"", ""confidences"": null}",2025-09-23 18:40:02.691387
