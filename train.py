@@ -82,5 +82,3 @@ plt.savefig("Results/model_results.png", dpi=120)
 import skops.io as sio
 
 sio.dump(pipe, "Model/drug_pipeline.skops")
-
-
